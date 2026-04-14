@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset (VERY IMPORTANT)
+data/
+*.zip
+*.tar
+*.gz
+
+# Images (optional - if large)
+*.jpg
+*.png
+
+# Model files
+*.h5
+*.hdf5
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
